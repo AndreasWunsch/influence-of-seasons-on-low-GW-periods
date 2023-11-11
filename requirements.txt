@@ -1,0 +1,6 @@
+tensorflow==2.7.0
+scikit-learn==1.2.0
+bayesian-optimization==1.4.2
+pandas==1.5.2
+matplotlib==3.6.2
+innvestigate==2.0.1
