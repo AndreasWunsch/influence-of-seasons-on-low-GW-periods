@@ -4,3 +4,5 @@ bayesian-optimization==1.4.2
 pandas==1.5.2
 matplotlib==3.6.2
 innvestigate==2.0.1
+protobuf==3.20.*
+tqdm
