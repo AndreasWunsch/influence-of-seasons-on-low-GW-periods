@@ -1,0 +1,25 @@
+alias;ID;federal state;name;x_coord;y_coord;lat;lon;start_year;aquifer;surface_elevation_masl];depth_to_GW_m;data source
+K2;100/813-7;BW;Giengen Taubental;590920;5388935;48.64685717;10.23436164;1979;karst;497.3;35.32;https://udo.lubw.baden-wuerttemberg.de/public/q/4LSiSN0ofs3ixO2yJt1Yb6
+P20;11119;BY;Badanhausen 8B;679209;5432380;49.01825707;11.45113397;1955;porous;366.4;1.62;https://www.gkd.bayern.de/index.php?lfu_submodule=grundwasser&lfu_method=download&gknr_name=bayern&lfu=oberesstockwerk&pgnr=11119
+P19;2373131200;RP;1341 I Woerth am Rhein;432791;5431646;49.03403011;8.080490689;1979;porous;137.5;2;https://wasserportal.rlp-umwelt.de/servlet/is/1632/
+P18;14293;HE;Kailbach;508261;5485664;49.52353865;9.114145035;1992;porous;354.5;8.56;http://lgd.hessen.de/
+K1;24153;BY;Speinshart Q3;705931;5516765;49.76803084;11.85989929;1997;karst;416.2;1.42;https://www.gkd.bayern.de/de/grundwasser/oberesstockwerk/naab_regen/speinshart-q3-24153/download
+P17;5162;BY;Leitenbach (2);634999;5533371;49.93743476;10.88131362;1997;porous;240.5;4.73;https://www.gkd.bayern.de/de/grundwasser/oberesstockwerk/elbe/leitenbach-2-5162
+P16;22008;BY;Pfaffenhausen 82A;563680;5550758;50.10565762;9.89051253;1979;porous;179.7;2.91;https://www.gkd.bayern.de/de/grundwasser/oberesstockwerk/main_unten/pfaffenhausen-82a-22008
+F2;10319;HE;Lettgenbrunn;532272;5555656;50.15224594;9.451733386;1992;fractured;380.8;11.58;http://lgd.hessen.de/
+F1;44339213;ST;Lengefeld;657980;5708535;51.50583567;11.27637615;1988;fractured;258.5;6.15;https://gld.lhw-sachsen-anhalt.de/#
+P15;110060143;NW;VI-14 - Handorf -;412382;5760509;51.98833013;7.724016439;1980;porous;52.1;1.64;https://www.elwasweb.nrw.de/elwas-web/index.xhtml
+P14;110040041;NW;IV-4 -Schwege-;425943;5768989;52.06653328;7.919628776;1971;porous;55.6;1.07;https://www.elwasweb.nrw.de/elwas-web/index.xhtml
+P9;100000728;NI;Ehra-Lessien I;622547;5824077;52.55295317;10.80751627;1985;porous;63.4;2.07;https://www.grundwasserstandonline.nlwkn.niedersachsen.de/ and http://www.wasserdaten.niedersachsen.de/cadenza/
+P13;33437070;BB;Bredow. Siedlung Glien;768609;5836914;52.61566598;12.96818932;1971;porous;31.6;1.97;https://apw.brandenburg.de/?th=ZR_GW_ME&feature=legend&showSearch=false
+P12;33452451;BB;Hennigsdorf 1.3km v.Trappen-A.;782655;5838050;52.61872767;13.17607864;1972;porous;32.2;0.93;https://apw.brandenburg.de/?th=ZR_GW_ME&feature=legend&showSearch=false
+P10;33437090;BB;Perwenitz. Luchstraße. OP;769303;5838525;52.62977043;12.9797273;1974;porous;32.4;1.67;https://apw.brandenburg.de/?th=ZR_GW_ME&feature=legend&showSearch=false
+P11;33437106;BB;Nauen. gegenue.G.-Arco-Str. 148;764414;5838901;52.63554519;12.90796369;1971;porous;31.2;1.97;https://apw.brandenburg.de/?th=ZR_GW_ME&feature=legend&showSearch=false
+P8;200001068;NI;Rodewald MB I;534027;5835353;52.6670551;9.503170028;1983;porous;26.3;1.67;https://www.grundwasserstandonline.nlwkn.niedersachsen.de/ and http://www.wasserdaten.niedersachsen.de/cadenza/
+P7;200002153;NI;Donstorf;470640;5835536;52.66897309;8.56582402;1980;porous;36.4;1.62;https://www.grundwasserstandonline.nlwkn.niedersachsen.de/ and http://www.wasserdaten.niedersachsen.de/cadenza/
+P6;200000620;NI;Walsen;463773;5840294;52.71132971;8.463755371;1980;porous;37.2;2.18;https://www.grundwasserstandonline.nlwkn.niedersachsen.de/ and http://www.wasserdaten.niedersachsen.de/cadenza/
+P5;200001722;NI;Martfeld;503025;5858185;52.87336927;9.044943617;1980;porous;13.4;1.97;https://www.grundwasserstandonline.nlwkn.niedersachsen.de/ and http://www.wasserdaten.niedersachsen.de/cadenza/
+P4;9700020;NI;Beverbruch 3_6;440656;5870819;52.98366567;8.116049305;1980;porous;15.6;0.31;https://www.grundwasserstandonline.nlwkn.niedersachsen.de/ and http://www.wasserdaten.niedersachsen.de/cadenza/
+P3;27381010;BB;Lockstädt OP;701838;5900152;53.21228864;12.02279441;1997;porous;49.7;1.32;https://apw.brandenburg.de/?th=ZR_GW_ME&feature=legend&showSearch=false
+P1;9853172;NI;Südgeorgsfehner Moor;419063;5902646;53.26687659;7.786450005;1981;porous;6.4;2.42;https://www.grundwasserstandonline.nlwkn.niedersachsen.de/ and http://www.wasserdaten.niedersachsen.de/cadenza/
+P2;405160331;NI;Klein Wohnste UE 33 FI;536583;5913023;53.36506416;9.549767745;1980;porous;36.7;2.17;https://www.grundwasserstandonline.nlwkn.niedersachsen.de/ and http://www.wasserdaten.niedersachsen.de/cadenza/
